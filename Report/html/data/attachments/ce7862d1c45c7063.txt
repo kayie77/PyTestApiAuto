@@ -1,0 +1,35 @@
+Log.py                      77 INFO     [INFO 2019-10-30 17:33:47]测试地址：http://10.34.4.113:8089/v1/project/getList
+Log.py                      77 INFO     [INFO 2019-10-30 17:33:47]请求参数：None
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 10.34.4.113:8089
+connectionpool.py          393 DEBUG    http://10.34.4.113:8089 "GET /v1/project/getList HTTP/1.1" 200 None
+charsetgroupprober.py      100 DEBUG    utf-8  confidence = 0.99
+charsetgroupprober.py      100 DEBUG    SHIFT_JIS Japanese confidence = 0.01
+charsetgroupprober.py      100 DEBUG    EUC-JP Japanese confidence = 0.01
+charsetgroupprober.py      100 DEBUG    GB2312 Chinese confidence = 0.01
+charsetgroupprober.py      100 DEBUG    EUC-KR Korean confidence = 0.01
+charsetgroupprober.py      100 DEBUG    CP949 Korean confidence = 0.01
+charsetgroupprober.py      100 DEBUG    Big5 Chinese confidence = 0.01
+charsetgroupprober.py      100 DEBUG    EUC-TW Taiwan confidence = 0.01
+charsetgroupprober.py      100 DEBUG    windows-1251 Russian confidence = 0.01
+charsetgroupprober.py      100 DEBUG    KOI8-R Russian confidence = 0.01
+charsetgroupprober.py      100 DEBUG    ISO-8859-5 Russian confidence = 0.0
+charsetgroupprober.py      100 DEBUG    MacCyrillic Russian confidence = 0.09332965390505778
+charsetgroupprober.py      100 DEBUG    IBM866 Russian confidence = 0.0
+charsetgroupprober.py      100 DEBUG    IBM855 Russian confidence = 0.0
+charsetgroupprober.py      100 DEBUG    ISO-8859-7 Greek confidence = 0.01
+charsetgroupprober.py      100 DEBUG    windows-1253 Greek confidence = 0.01
+charsetgroupprober.py      100 DEBUG    ISO-8859-5 Bulgairan confidence = 0.0
+charsetgroupprober.py      100 DEBUG    windows-1251 Bulgarian confidence = 0.0
+charsetgroupprober.py      100 DEBUG    TIS-620 Thai confidence = 0.0
+charsetgroupprober.py      100 DEBUG    ISO-8859-9 Turkish confidence = 0.4313055727513577
+charsetgroupprober.py      100 DEBUG    windows-1255 Hebrew confidence = 0.0
+charsetgroupprober.py      100 DEBUG    windows-1255 Hebrew confidence = 0.0
+charsetgroupprober.py      100 DEBUG    windows-1255 Hebrew confidence = 0.0
+charsetgroupprober.py      100 DEBUG    utf-8  confidence = 0.99
+charsetgroupprober.py      100 DEBUG    SHIFT_JIS Japanese confidence = 0.01
+charsetgroupprober.py      100 DEBUG    EUC-JP Japanese confidence = 0.01
+charsetgroupprober.py      100 DEBUG    GB2312 Chinese confidence = 0.01
+charsetgroupprober.py      100 DEBUG    EUC-KR Korean confidence = 0.01
+charsetgroupprober.py      100 DEBUG    CP949 Korean confidence = 0.01
+charsetgroupprober.py      100 DEBUG    Big5 Chinese confidence = 0.01
+charsetgroupprober.py      100 DEBUG    EUC-TW Taiwan confidence = 0.01

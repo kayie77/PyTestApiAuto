@@ -1,0 +1,106 @@
+{
+	"info": {
+		"_postman_id": "54e88511-df7e-4dd1-b702-c256adc2bdb9",
+		"name": "wujiayi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "get_project_list",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "56c590e1-611c-4172-8f61-8064105d9b1a",
+						"exec": [
+							"/** 设置关键字参数*/",
+							"var jsonData = pm.response.json();",
+							"var project_id = jsonData.data.data[0].id",
+							"pm.environment.set(\"project_id\", project_id);",
+							"",
+							"/** 设定下一请求执行路径*/ ",
+							"postman.setNextRequest('导入资源类型');"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "debug",
+						"value": "1",
+						"type": "text"
+					},
+					{
+						"key": "userid",
+						"value": "727",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "/v1/project/getList",
+					"host": [
+						"{{CMS-Test-BaseUrl}}"
+					],
+					"path": [
+						"v1",
+						"project",
+						"getList"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "获取项目列表2222",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "56c590e1-611c-4172-8f61-8064105d9b1a",
+						"exec": [
+							"/** 设置关键字参数*/",
+							"var jsonData = pm.response.json();",
+							"var project_id = jsonData.data.data[0].id",
+							"pm.environment.set(\"project_id\", project_id);",
+							"",
+							"/** 设定下一请求执行路径*/ ",
+							"postman.setNextRequest('导入资源类型');"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "debug",
+						"value": "1",
+						"type": "text"
+					},
+					{
+						"key": "userid",
+						"value": "727",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "/v1/project/getList",
+					"host": [
+						"{{CMS-Test-BaseUrl}}"
+					],
+					"path": [
+						"v1",
+						"project",
+						"getList"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

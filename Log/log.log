@@ -1,0 +1,463 @@
+[INFO 2019-10-10 18:24:55]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-10 18:25:04]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-10 18:25:09]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-10 18:25:09]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 11:10:10]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 11:10:10]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 17:39:41]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 17:40:11]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 17:40:39]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 17:42:26]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 17:44:30]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 17:44:39]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 17:58:40]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 17:58:41]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:01:07]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:01:08]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:04:41]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:04:42]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:06:55]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:07:36]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:07:37]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:11:32]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:11:33]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:11:57]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:11:58]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:13:13]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:13:20]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:13:21]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:14:13]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:14:13]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:14:19]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:14:20]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:14:33]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:14:33]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:17:08]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:17:34]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:17:35]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[ERROR 2019-10-14 18:17:35]statusCode error, expected_code is 1, statusCode is 200 
+[INFO 2019-10-14 18:21:22]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:21:22]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:21:51]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:21:52]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:21:58]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:21:58]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:23:58]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:23:59]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:31:21]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:31:22]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:34:48]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:34:49]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:39:01]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:40:44]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:40:45]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:43:09]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:43:14]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:43:15]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:45:37]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:45:43]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:45:44]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[ERROR 2019-10-14 18:45:45]Response time > expected_time, expected_time is 200, time is 372.817
+[INFO 2019-10-14 18:46:13]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:46:19]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:46:20]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:50:46]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 18:51:29]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-14 18:51:35]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 19:00:00]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-14 19:00:00]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-15 09:36:08]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 09:36:09]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-15 10:25:04]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 10:25:05]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-15 10:26:29]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 10:26:30]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-15 10:28:31]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 10:28:31]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-15 16:36:40]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 16:36:41]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-15 16:44:50]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 16:44:50]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-15 16:45:09]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 16:45:09]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-15 16:45:43]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 16:45:43]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[ERROR 2019-10-15 16:45:47]Response body msg != expected_msg, expected_msg is 2, body_msg is code
+[INFO 2019-10-15 16:46:41]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 16:46:41]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[ERROR 2019-10-15 16:46:42]Response body msg != expected_msg, expected_msg is 2, body_msg is code
+[INFO 2019-10-15 16:48:16]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 16:48:16]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-15 16:49:04]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 16:49:05]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[ERROR 2019-10-15 16:52:22]Response body msg != expected_msg, expected_msg is 1, body_msg is code
+[INFO 2019-10-15 16:52:37]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 16:52:37]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-15 16:54:59]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 16:55:00]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-15 16:56:25]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 16:56:26]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-15 16:57:56]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 16:57:57]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-15 16:59:41]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 16:59:41]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-15 17:43:03]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 17:43:03]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[ERROR 2019-10-15 17:43:04]Response body msg != expected_msg, expected_msg is 1, body_msg is code
+[INFO 2019-10-15 17:43:18]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 17:43:19]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-15 17:45:01]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 17:45:01]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-15 17:45:22]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 17:45:23]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-15 17:46:15]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 17:46:16]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[ERROR 2019-10-15 17:46:16]Response body msg != expected_msg, expected_msg is 11, msg is 1
+[INFO 2019-10-15 17:49:41]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 17:49:42]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[ERROR 2019-10-15 17:49:43]Response body msg != expected_msg, expected_msg is 12, msg is 1
+[INFO 2019-10-15 17:52:05]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-15 17:52:05]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 09:06:06]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 09:06:07]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 09:07:02]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 09:07:03]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 09:11:17]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 09:11:17]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 09:12:37]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 09:12:38]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 09:12:50]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 09:12:50]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 09:13:02]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 09:13:02]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 09:13:16]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 09:13:17]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 09:13:26]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 09:13:26]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 09:13:37]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 09:13:38]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 09:13:59]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 09:13:59]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 09:14:10]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 09:14:11]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 09:21:58]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 09:21:59]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 09:22:32]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 09:22:32]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 09:24:35]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 09:24:36]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 09:25:46]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 09:25:46]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 10:32:49]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 10:32:50]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 10:46:20]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 10:46:20]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 10:50:38]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 10:50:39]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 10:54:26]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 10:54:26]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 11:00:50]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 11:00:50]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 11:21:24]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 11:21:25]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-16 11:23:21]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-16 11:23:22]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-17 09:47:19]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-17 09:47:20]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-17 09:49:24]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-17 09:50:01]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-17 09:50:02]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-17 09:50:24]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-17 09:50:24]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-17 09:50:38]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-17 09:50:38]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-17 10:57:28]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-17 10:57:29]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-17 10:57:30]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-17 10:57:30]请求参数：None
+[INFO 2019-10-17 10:58:05]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-17 10:58:05]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-17 10:58:06]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-17 10:58:06]请求参数：None
+[INFO 2019-10-17 10:58:21]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-17 10:58:22]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-17 10:58:22]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-17 10:58:22]请求参数：None
+[INFO 2019-10-17 10:58:26]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-17 10:58:27]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-17 10:58:33]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-17 10:58:33]请求参数：None
+[INFO 2019-10-17 11:24:54]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-17 11:24:55]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-17 11:24:56]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-17 11:24:56]请求参数：None
+[INFO 2019-10-17 11:48:52]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-17 11:48:53]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-17 11:48:57]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-17 11:48:57]请求参数：None
+[INFO 2019-10-17 11:49:04]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-17 11:49:25]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-17 11:51:34]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-17 11:51:35]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-17 11:51:35]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-17 11:51:35]请求参数：None
+[INFO 2019-10-18 11:51:44]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 11:51:45]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-18 11:51:47]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-18 11:51:47]请求参数：None
+[INFO 2019-10-18 11:51:52]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 11:51:53]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-18 11:53:27]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 11:53:27]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-18 12:10:49]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 12:10:50]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-18 12:35:06]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 12:35:06]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-18 12:35:07]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-18 12:35:07]请求参数：None
+[INFO 2019-10-18 12:35:12]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 12:35:12]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-18 12:36:42]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 12:36:42]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-18 12:36:43]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-18 12:36:43]请求参数：None
+[INFO 2019-10-18 12:49:42]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test1.json
+[INFO 2019-10-18 12:50:50]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test1.json
+[INFO 2019-10-18 12:59:03]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test1.json
+[INFO 2019-10-18 12:59:17]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test1.json
+[INFO 2019-10-18 12:59:38]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test1.json
+[INFO 2019-10-18 13:00:26]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 13:00:29]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test1.json
+[INFO 2019-10-18 13:00:48]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 13:00:49]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test1.json
+[INFO 2019-10-18 13:01:36]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 13:01:36]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-18 13:01:37]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-18 13:01:37]请求参数：None
+[INFO 2019-10-18 13:01:47]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 13:01:48]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-18 13:04:42]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 13:04:45]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test1.json
+[INFO 2019-10-18 13:07:45]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 13:07:47]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test1.json
+[INFO 2019-10-18 13:09:18]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 13:09:21]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test1.json
+[INFO 2019-10-18 13:11:44]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 13:11:54]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-18 13:12:40]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 13:12:45]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-18 13:13:47]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 13:13:50]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-18 13:16:48]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 13:16:49]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-18 13:16:49]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-18 13:16:49]请求参数：None
+[INFO 2019-10-18 13:17:51]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 13:17:52]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-18 13:18:05]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-18 13:18:05]请求参数：None
+[INFO 2019-10-18 13:18:15]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-18 13:18:16]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-18 13:18:16]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-18 13:18:16]请求参数：None
+[INFO 2019-10-21 10:02:51]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-21 10:02:52]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-21 10:02:53]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-21 10:02:53]请求参数：None
+[INFO 2019-10-21 10:03:46]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-21 10:03:46]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-21 10:03:46]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-21 10:03:46]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-21 10:03:46]请求参数：None
+[INFO 2019-10-21 10:03:47]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-21 10:03:47]请求参数：None
+[INFO 2019-10-30 14:30:17]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 14:30:17]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 14:30:19]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 14:30:19]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 14:30:19]请求参数：None
+[INFO 2019-10-30 14:30:20]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-30 14:30:20]请求参数：None
+[INFO 2019-10-30 14:37:08]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 14:37:09]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 14:37:10]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 14:37:10]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 14:37:10]请求参数：None
+[INFO 2019-10-30 15:06:13]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 15:06:14]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 15:06:15]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 15:31:44]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 15:31:45]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 15:31:46]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 15:35:58]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 15:35:58]请求参数：None
+[INFO 2019-10-30 15:35:58]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-30 15:35:58]请求参数：None
+[INFO 2019-10-30 15:35:58]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-30 15:35:58]请求参数：None
+[INFO 2019-10-30 15:36:04]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 15:36:05]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 15:36:07]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 15:42:44]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 15:42:44]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 15:42:47]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 15:43:26]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 15:43:27]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 15:43:28]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 15:45:43]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 15:45:43]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 15:45:47]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 15:49:21]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 15:49:22]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 15:49:24]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 15:50:17]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 15:50:18]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 15:50:19]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 15:51:32]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 15:51:33]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 15:51:35]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 15:55:48]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 15:55:49]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 15:55:52]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:15:27]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:15:27]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:15:28]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:15:28]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 16:15:28]请求参数：None
+[INFO 2019-10-30 16:15:58]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:15:59]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:15:59]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:15:59]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 16:15:59]请求参数：None
+[INFO 2019-10-30 16:17:24]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:17:24]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:17:38]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:19:06]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:19:06]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:19:10]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:19:42]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 16:19:42]请求参数：None
+[INFO 2019-10-30 16:20:14]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:20:14]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:20:15]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:20:15]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 16:20:15]请求参数：None
+[INFO 2019-10-30 16:21:14]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:21:15]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:21:15]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:21:15]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 16:21:15]请求参数：None
+[INFO 2019-10-30 16:22:28]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:22:28]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:22:29]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:22:29]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 16:22:29]请求参数：None
+[ERROR 2019-10-30 16:22:30]Response time > expected_time, expected_time is 500, time is 872.886
+[INFO 2019-10-30 16:22:49]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:22:49]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:22:49]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:22:49]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 16:22:49]请求参数：None
+[INFO 2019-10-30 16:27:31]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:27:32]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:27:33]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:27:33]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 16:27:33]请求参数：None
+[INFO 2019-10-30 16:28:09]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:28:10]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:28:12]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:32:36]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:32:37]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:32:38]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:32:38]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 16:32:38]请求参数：None
+[INFO 2019-10-30 16:34:41]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:34:41]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:34:42]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:34:42]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 16:34:42]请求参数：None
+[INFO 2019-10-30 16:37:59]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:38:00]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:38:01]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:38:01]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 16:38:01]请求参数：None
+[INFO 2019-10-30 16:38:12]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-30 16:38:12]请求参数：None
+[INFO 2019-10-30 16:38:23]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:38:24]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:38:25]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:38:25]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 16:38:25]请求参数：None
+[INFO 2019-10-30 16:38:25]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-30 16:38:25]请求参数：None
+[INFO 2019-10-30 16:39:10]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:39:11]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:39:11]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 16:39:11]请求参数：None
+[INFO 2019-10-30 16:39:18]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:39:19]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:39:19]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:39:19]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 16:39:19]请求参数：None
+[INFO 2019-10-30 16:39:19]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-30 16:39:19]请求参数：None
+[INFO 2019-10-30 16:44:49]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:44:50]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:44:51]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:44:51]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 16:44:51]请求参数：None
+[INFO 2019-10-30 16:44:51]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-30 16:44:51]请求参数：None
+[INFO 2019-10-30 16:47:42]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 16:47:42]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 16:47:43]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 16:47:43]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 16:47:43]请求参数：None
+[INFO 2019-10-30 16:47:43]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-30 16:47:43]请求参数：None
+[INFO 2019-10-30 17:03:47]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 17:03:48]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 17:03:49]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 17:03:49]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 17:03:49]请求参数：None
+[INFO 2019-10-30 17:04:41]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 17:04:41]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 17:04:42]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 17:04:42]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 17:04:42]请求参数：None
+[INFO 2019-10-30 17:05:58]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-30 17:05:58]请求参数：None
+[INFO 2019-10-30 17:11:11]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 17:11:12]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 17:11:13]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 17:11:13]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 17:11:13]请求参数：None
+[INFO 2019-10-30 17:11:13]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-30 17:11:13]请求参数：None
+[INFO 2019-10-30 17:24:39]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 17:24:40]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 17:24:40]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 17:24:40]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 17:24:40]请求参数：None
+[INFO 2019-10-30 17:24:41]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-30 17:24:41]请求参数：None
+[INFO 2019-10-30 17:31:02]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 17:32:26]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 17:32:27]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 17:32:28]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 17:32:28]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 17:32:28]请求参数：None
+[INFO 2019-10-30 17:32:28]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-30 17:32:28]请求参数：None
+[INFO 2019-10-30 17:33:45]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 17:33:46]解析yaml, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Yaml/Basic.yaml
+[INFO 2019-10-30 17:33:47]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 17:33:47]测试地址：http://10.34.4.113:8089/v1/service/getList?customer_type=0
+[INFO 2019-10-30 17:33:47]请求参数：None
+[INFO 2019-10-30 17:33:47]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-30 17:33:47]请求参数：None
+[INFO 2019-10-30 17:42:18]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 17:42:31]初始化配置文件, path=/Users/jiayiwu/PycharmProjects/pyautoTest/Conf/config.ini
+[INFO 2019-10-30 17:42:32]解析json, Path:/Users/jiayiwu/PycharmProjects/pyautoTest/Params/Param/Json/test3.json
+[INFO 2019-10-30 17:42:32]测试地址：http://10.34.4.113:8089/v1/project/getList
+[INFO 2019-10-30 17:42:32]请求参数：None

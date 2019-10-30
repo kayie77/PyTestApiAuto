@@ -1,0 +1,10 @@
+[ {
+  "values" : [ "http://10.34.4.113:8089" ],
+  "name" : "hostname"
+}, {
+  "values" : [ "debug" ],
+  "name" : "environment"
+}, {
+  "values" : [ "吴嘉怡 - 测试环境" ],
+  "name" : "tester"
+} ]

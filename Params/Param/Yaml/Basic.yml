@@ -1,0 +1,17 @@
+---
+Basic:
+  dec: "基础设置"
+  parameters:
+    -
+      url: /v1/service/getList?customer_type=0
+      header: {
+                 "debug": "1",
+                 "userid": "727"
+              }
+
+    -
+      url: /v1/service/getList?customer_type=1
+      header: {
+                 "debug": "1",
+                 "userid": "727"
+              }

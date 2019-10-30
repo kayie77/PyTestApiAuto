@@ -1,0 +1,21 @@
+[ {
+  "uid" : "e3bfad0f337c6f9f",
+  "name" : "TestBasic.test_get_project_list[get_project_list0]",
+  "time" : {
+    "start" : 1572428027351,
+    "stop" : 1572428027474,
+    "duration" : 123
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "eb3cf027eb61a869",
+  "name" : "TestBasic.test_basic_01",
+  "time" : {
+    "start" : 1572428027214,
+    "stop" : 1572428027348,
+    "duration" : 134
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

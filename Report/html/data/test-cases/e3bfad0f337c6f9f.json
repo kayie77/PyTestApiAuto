@@ -1,0 +1,83 @@
+{
+  "uid" : "e3bfad0f337c6f9f",
+  "name" : "TestBasic.test_get_project_list[get_project_list0]",
+  "fullName" : "test_basic1.TestBasic.test_get_project_list[get_project_list0]",
+  "historyId" : "44046eba860e69a291bc1b13abf11e04",
+  "time" : {
+    "start" : 1572428027351,
+    "stop" : 1572428027474,
+    "duration" : 123
+  },
+  "description" : "\n\t\t:param get_project_list: 获取项目列表\n\t\t:param action: 环境参数\n\t\t",
+  "descriptionHtml" : "<pre><code>\t:param get_project_list: 获取项目列表\n\t:param action: 环境参数\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ce7862d1c45c7063",
+      "name" : "Captured log call",
+      "source" : "ce7862d1c45c7063.txt",
+      "type" : "text/plain",
+      "size" : 2725
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "test_basic模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "mac.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "get_project_list"
+  }, {
+    "name" : "thread",
+    "value" : "33444-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_basic1"
+  }, {
+    "name" : "testClass",
+    "value" : "test_basic1"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestBasic.test_get_project_list[get_project_list0]"
+  }, {
+    "name" : "package",
+    "value" : "test_basic1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e3bfad0f337c6f9f.json",
+  "parameterValues" : [ ]
+}

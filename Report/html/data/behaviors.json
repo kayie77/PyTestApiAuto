@@ -1,0 +1,47 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "基础模块",
+    "children" : [ {
+      "name" : "Basic",
+      "children" : [ {
+        "name" : "TestBasic.test_basic_01",
+        "uid" : "eb3cf027eb61a869",
+        "parentUid" : "475123b7ad167a65fbeacbf2b1e087f3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1572428027214,
+          "stop" : 1572428027348,
+          "duration" : 134
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "475123b7ad167a65fbeacbf2b1e087f3"
+    } ],
+    "uid" : "1eb4cc60a24daf6ae00eee35b65b8995"
+  }, {
+    "name" : "test_basic模块",
+    "children" : [ {
+      "name" : "get_project_list",
+      "children" : [ {
+        "name" : "TestBasic.test_get_project_list[get_project_list0]",
+        "uid" : "e3bfad0f337c6f9f",
+        "parentUid" : "178e0502f1f6d99362fdb19f3bfdb857",
+        "status" : "passed",
+        "time" : {
+          "start" : 1572428027351,
+          "stop" : 1572428027474,
+          "duration" : 123
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "178e0502f1f6d99362fdb19f3bfdb857"
+    } ],
+    "uid" : "2c9a30474e9bec6cbe3d37ba2032d108"
+  } ]
+}

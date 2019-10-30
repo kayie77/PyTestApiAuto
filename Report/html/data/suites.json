@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_basic",
+    "children" : [ {
+      "name" : "TestBasic.test_basic_01",
+      "uid" : "eb3cf027eb61a869",
+      "parentUid" : "c401ead9f218bc1f5873b2a8645c32d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1572428027214,
+        "stop" : 1572428027348,
+        "duration" : 134
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c401ead9f218bc1f5873b2a8645c32d9"
+  }, {
+    "name" : "test_basic1",
+    "children" : [ {
+      "name" : "TestBasic.test_get_project_list[get_project_list0]",
+      "uid" : "e3bfad0f337c6f9f",
+      "parentUid" : "9429c18091b08998f812a91fde4eec88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1572428027351,
+        "stop" : 1572428027474,
+        "duration" : 123
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9429c18091b08998f812a91fde4eec88"
+  } ]
+}

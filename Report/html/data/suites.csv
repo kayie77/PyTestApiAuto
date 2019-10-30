@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Oct 30 17:33:47 CST 2019","Wed Oct 30 17:33:47 CST 2019","123","","test_basic1","","test_basic1","TestBasic.test_get_project_list[get_project_list0]","TestBasic.test_get_project_list[get_project_list0]","
+		:param get_project_list: 获取项目列表
+		:param action: 环境参数
+		"
+"passed","Wed Oct 30 17:33:47 CST 2019","Wed Oct 30 17:33:47 CST 2019","134","","test_basic","","test_basic","TestBasic.test_basic_01","TestBasic.test_basic_01","
+			用例描述：未登陆状态下查看基础设置
+		"

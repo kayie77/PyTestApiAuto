@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "mac.local",
+    "children" : [ {
+      "name" : "33444-MainThread",
+      "children" : [ {
+        "name" : "TestBasic.test_get_project_list[get_project_list0]",
+        "uid" : "e3bfad0f337c6f9f",
+        "parentUid" : "8063ae46b2e52a7fe32ada3416c2a614",
+        "status" : "passed",
+        "time" : {
+          "start" : 1572428027351,
+          "stop" : 1572428027474,
+          "duration" : 123
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBasic.test_basic_01",
+        "uid" : "eb3cf027eb61a869",
+        "parentUid" : "8063ae46b2e52a7fe32ada3416c2a614",
+        "status" : "passed",
+        "time" : {
+          "start" : 1572428027214,
+          "stop" : 1572428027348,
+          "duration" : 134
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8063ae46b2e52a7fe32ada3416c2a614"
+    } ],
+    "uid" : "ab72a33482097bc3197e16b033facc0c"
+  } ]
+}

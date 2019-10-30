@@ -1,0 +1,26 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1572428552884" stop="1572428553001">
+  <name>test_basic1</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1572428552884" status="passed" stop="1572428553001">
+      <description>
+		:param get_project_list: 获取项目列表
+		:param action: 环境参数
+		</description>
+      <name>TestBasic.test_get_project_list[get_project_list0]</name>
+      <attachments>
+        <attachment source="38b9b2af-a0a6-4ff0-bd50-8517d82ae314-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="story" value="get_project_list"/>
+        <label name="feature" value="test_basic模块"/>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="33566-MainThread"/>
+        <label name="host" value="mac.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

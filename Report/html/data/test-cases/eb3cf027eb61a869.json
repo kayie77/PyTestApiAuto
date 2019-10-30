@@ -1,0 +1,83 @@
+{
+  "uid" : "eb3cf027eb61a869",
+  "name" : "TestBasic.test_basic_01",
+  "fullName" : "test_basic.TestBasic.test_basic_01",
+  "historyId" : "1d5ff321aa6308ca2430988994bc1cfb",
+  "time" : {
+    "start" : 1572428027214,
+    "stop" : 1572428027348,
+    "duration" : 134
+  },
+  "description" : "\n\t\t\t用例描述：未登陆状态下查看基础设置\n\t\t",
+  "descriptionHtml" : "<pre><code>\t\t用例描述：未登陆状态下查看基础设置\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "965181c5ccf196c",
+      "name" : "Captured log call",
+      "source" : "965181c5ccf196c.txt",
+      "type" : "text/plain",
+      "size" : 2773
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "基础模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "mac.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "Basic"
+  }, {
+    "name" : "thread",
+    "value" : "33444-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_basic"
+  }, {
+    "name" : "testClass",
+    "value" : "test_basic"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestBasic.test_basic_01"
+  }, {
+    "name" : "package",
+    "value" : "test_basic"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb3cf027eb61a869.json",
+  "parameterValues" : [ ]
+}
