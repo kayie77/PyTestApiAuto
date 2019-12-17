@@ -29,8 +29,8 @@ if __name__ == '__main__':
     xml_report_path = conf.xml_report_path
     html_report_path = conf.html_report_path
     # 定义测试集
-    # dir = os.path.split(os.path.abspath(__file__))[0]
-    # test_case_path = dir + '/TestCase/test_basic1.py'
+    dir = os.path.split(os.path.abspath(__file__))[0]
+    test_case_path = dir + '/TestCase/test_init.py'
     args = ['-s', '-q', '--alluredir', xml_report_path]
     # args.append(test_case_path)
     # 运行命令

@@ -1,0 +1,235 @@
+{
+	"info": {
+		"_postman_id": "40f0150a-acc3-4bfc-9675-79e2c8cd5d5d",
+		"name": "temp",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "导入组织",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "78cbb58b-4018-4c97-b39e-1fa19e9b8696",
+						"exec": [
+							"/** 设定下一请求执行路径*/ ",
+							"postman.setNextRequest('导入合同主体');",
+							"",
+							""
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "a04d9d7d-8bf2-45e6-ac97-5f48991f49e0",
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					},
+					{
+						"key": "debug",
+						"value": "{{debug}}",
+						"type": "text"
+					},
+					{
+						"key": "userid",
+						"value": "{{admin_id}}",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "type",
+							"value": "1",
+							"type": "text"
+						},
+						{
+							"key": "file",
+							"type": "file",
+							"value": "/Users/jiayiwu/project/newman_cms/datas-new/import_org.xlsx"
+						},
+						{
+							"key": "isGroupInit",
+							"value": "true",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{CMS-Test-BaseUrl}}/v1/groupInit/import",
+					"host": [
+						"{{CMS-Test-BaseUrl}}"
+					],
+					"path": [
+						"v1",
+						"groupInit",
+						"import"
+					]
+				},
+				"description": "import_org"
+			},
+			"response": []
+		},
+		{
+			"name": "导入合同主体",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "1d0064b7-574f-4d41-b8e4-fcce0b9d3069",
+						"exec": [
+							"/** 设定下一请求执行路径*/ ",
+							"postman.setNextRequest('导入用户账号');"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "debug",
+						"value": "{{debug}}",
+						"type": "text"
+					},
+					{
+						"key": "userid",
+						"value": "{{admin_id}}",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "type",
+							"value": "2",
+							"type": "text"
+						},
+						{
+							"key": "file",
+							"type": "file",
+							"value": "/Users/jiayiwu/project/newman_cms/datas-new/import_license.xlsx"
+						},
+						{
+							"key": "isGroupInit",
+							"value": "true",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{CMS-Test-BaseUrl}}/v1/groupInit/import",
+					"host": [
+						"{{CMS-Test-BaseUrl}}"
+					],
+					"path": [
+						"v1",
+						"groupInit",
+						"import"
+					]
+				},
+				"description": "import_license"
+			},
+			"response": []
+		},
+		{
+			"name": "导入用户账号",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "1d0064b7-574f-4d41-b8e4-fcce0b9d3069",
+						"exec": [
+							"/** 设定下一请求执行路径*/ ",
+							"postman.setNextRequest('导入客户服务');"
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "359613f9-8a62-46f3-9c34-da22be161af6",
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"type": "text",
+						"value": "application/x-www-form-urlencoded"
+					},
+					{
+						"key": "debug",
+						"value": "{{debug}}",
+						"type": "text"
+					},
+					{
+						"key": "userid",
+						"value": "{{admin_id}}",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "type",
+							"value": "3",
+							"type": "text"
+						},
+						{
+							"key": "file",
+							"type": "file",
+							"value": "/Users/jiayiwu/project/newman_cms/datas-new/import_user.xlsx"
+						},
+						{
+							"key": "isGroupInit",
+							"value": "true",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{CMS-Test-BaseUrl}}/v1/groupInit/import",
+					"host": [
+						"{{CMS-Test-BaseUrl}}"
+					],
+					"path": [
+						"v1",
+						"groupInit",
+						"import"
+					]
+				},
+				"description": "import_user"
+			},
+			"response": []
+		}
+	]
+}

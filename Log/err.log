@@ -1,3 +1,19 @@
 [ERROR 2019-10-15 17:46:16]Response body msg != expected_msg, expected_msg is 11, msg is 1
 [ERROR 2019-10-15 17:49:43]Response body msg != expected_msg, expected_msg is 12, msg is 1
 [ERROR 2019-10-30 16:22:30]Response time > expected_time, expected_time is 500, time is 872.886
+[ERROR 2019-11-11 14:23:37]Response body msg != expected_msg, expected_msg is 1, msg is 0
+[ERROR 2019-11-11 14:30:46]Response body msg != expected_msg, expected_msg is 1, msg is 0
+[ERROR 2019-11-11 14:30:57]Response body msg != expected_msg, expected_msg is 1, msg is 0
+[ERROR 2019-11-11 14:43:31]Response body msg != expected_msg, expected_msg is 1, msg is 0
+[ERROR 2019-11-11 14:49:55]Response body msg != expected_msg, expected_msg is 1, msg is 0
+[ERROR 2019-11-11 14:50:05]Response body msg != expected_msg, expected_msg is 1, msg is 0
+[ERROR 2019-11-11 15:05:49]Response body msg != expected_msg, expected_msg is 1, msg is 0
+[ERROR 2019-11-11 15:08:51]Response body msg != expected_msg, expected_msg is 1, msg is 0
+[ERROR 2019-11-11 15:52:56]Response body msg != expected_msg, expected_msg is 1, msg is 0
+[ERROR 2019-11-11 16:05:49]Response body msg != expected_msg, expected_msg is 1, msg is 0
+[ERROR 2019-11-13 19:52:48]Response body msg != expected_msg, expected_msg is 1, msg is 0
+[ERROR 2019-11-13 19:52:54]Response body msg != expected_msg, expected_msg is 1, msg is 0
+[ERROR 2019-11-13 19:55:24]Response body msg != expected_msg, expected_msg is 1, msg is 0
+[ERROR 2019-11-13 19:56:17]Response body msg != expected_msg, expected_msg is 1, msg is 0
+[ERROR 2019-11-13 19:57:04]Response body msg != expected_msg, expected_msg is 1, msg is 0
+[ERROR 2019-11-13 20:00:18]Response body msg != expected_msg, expected_msg is 1, msg is 0

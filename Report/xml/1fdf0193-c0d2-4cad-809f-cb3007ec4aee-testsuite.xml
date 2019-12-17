@@ -1,0 +1,69 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1573799231356" stop="1573799231911">
+  <name>test_init</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1573799231356" status="passed" stop="1573799231515">
+      <description>
+		:param import_org: 导入组织
+		:param action: 环境参数
+		:return:
+		</description>
+      <name>TestBasic.test_import_org[import_org0]</name>
+      <attachments>
+        <attachment source="85106e20-2253-406c-a3dd-b5cd934aa2c4-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="初始化数据模块"/>
+        <label name="story" value="import_org"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3794-MainThread"/>
+        <label name="host" value="mac.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1573799231519" status="passed" stop="1573799231643">
+      <description>
+		:param import_license: 导入合同主体
+		:param action: 环境参数
+		:return:
+		</description>
+      <name>TestBasic.test_import_license[import_license0]</name>
+      <attachments>
+        <attachment source="5d0c7c67-9e8b-4a21-98b3-dd53f8734b72-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="初始化数据模块"/>
+        <label name="story" value="import_license"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3794-MainThread"/>
+        <label name="host" value="mac.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1573799231647" status="passed" stop="1573799231911">
+      <description>
+		:param import_user: 导入用户
+		:param action: 环境参数
+		:return:
+		</description>
+      <name>TestBasic.test_import_user[import_user0]</name>
+      <attachments>
+        <attachment source="bf913c7c-0170-41d5-ba65-ad14e4521079-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="初始化数据模块"/>
+        <label name="story" value="import_user"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3794-MainThread"/>
+        <label name="host" value="mac.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

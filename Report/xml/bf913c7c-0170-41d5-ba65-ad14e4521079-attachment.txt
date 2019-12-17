@@ -1,0 +1,42 @@
+Log.py                      77 INFO     [INFO 2019-11-15 14:27:11]测试地址：http://10.34.4.113:8089/v1/groupInit/import
+Log.py                      77 INFO     [INFO 2019-11-15 14:27:11]请求参数：{'type': '3', 'file': '/Users/jiayiwu/project/newman_cms/datas-new/import_user.xlsx', 'isGroupInit': 'true'}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:5555
+connectionpool.py          393 DEBUG    http://127.0.0.1:5555 "POST http://10.34.4.113:8089/v1/groupInit/import HTTP/1.1" 200 None
+sjisprober.py               61 DEBUG    SHIFT_JIS Japanese prober hit error at byte 33
+eucjpprober.py              62 DEBUG    EUC-JP Japanese prober hit error at byte 22
+mbcharsetprober.py          66 DEBUG    EUC-KR Korean prober hit error at byte 22
+mbcharsetprober.py          66 DEBUG    CP949 Korean prober hit error at byte 22
+mbcharsetprober.py          66 DEBUG    Big5 Chinese prober hit error at byte 23
+mbcharsetprober.py          66 DEBUG    EUC-TW Taiwan prober hit error at byte 22
+charsetgroupprober.py      100 DEBUG    utf-8  confidence = 0.938125
+charsetgroupprober.py       97 DEBUG    SHIFT_JIS not active
+charsetgroupprober.py       97 DEBUG    EUC-JP not active
+charsetgroupprober.py      100 DEBUG    GB2312 Chinese confidence = 0.01
+charsetgroupprober.py       97 DEBUG    EUC-KR not active
+charsetgroupprober.py       97 DEBUG    CP949 not active
+charsetgroupprober.py       97 DEBUG    Big5 not active
+charsetgroupprober.py       97 DEBUG    EUC-TW not active
+charsetgroupprober.py      100 DEBUG    windows-1251 Russian confidence = 0.01
+charsetgroupprober.py      100 DEBUG    KOI8-R Russian confidence = 0.01
+charsetgroupprober.py      100 DEBUG    ISO-8859-5 Russian confidence = 0.0
+charsetgroupprober.py      100 DEBUG    MacCyrillic Russian confidence = 0.0
+charsetgroupprober.py      100 DEBUG    IBM866 Russian confidence = 0.0
+charsetgroupprober.py      100 DEBUG    IBM855 Russian confidence = 0.0
+charsetgroupprober.py      100 DEBUG    ISO-8859-7 Greek confidence = 0.01
+charsetgroupprober.py      100 DEBUG    windows-1253 Greek confidence = 0.01
+charsetgroupprober.py      100 DEBUG    ISO-8859-5 Bulgairan confidence = 0.0
+charsetgroupprober.py      100 DEBUG    windows-1251 Bulgarian confidence = 0.01
+charsetgroupprober.py      100 DEBUG    TIS-620 Thai confidence = 0.0
+charsetgroupprober.py      100 DEBUG    ISO-8859-9 Turkish confidence = 0.42942487984691863
+charsetgroupprober.py      100 DEBUG    windows-1255 Hebrew confidence = 0.0
+charsetgroupprober.py      100 DEBUG    windows-1255 Hebrew confidence = 0.0
+charsetgroupprober.py      100 DEBUG    windows-1255 Hebrew confidence = 0.0
+charsetgroupprober.py      100 DEBUG    utf-8  confidence = 0.938125
+charsetgroupprober.py       97 DEBUG    SHIFT_JIS not active
+charsetgroupprober.py       97 DEBUG    EUC-JP not active
+charsetgroupprober.py      100 DEBUG    GB2312 Chinese confidence = 0.01
+charsetgroupprober.py       97 DEBUG    EUC-KR not active
+charsetgroupprober.py       97 DEBUG    CP949 not active
+charsetgroupprober.py       97 DEBUG    Big5 not active
+charsetgroupprober.py       97 DEBUG    EUC-TW not active
+Log.py                      77 INFO     [INFO 2019-11-15 14:27:11]返回结果：{'code': 200, 'text': '{"code":1,"message":"操作成功","data":[]}', 'time_consuming': 246.83, 'time_total': 0.24683, 'body': {'code': 1, 'message': '操作成功', 'data': []}}
